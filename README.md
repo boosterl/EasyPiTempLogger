@@ -9,5 +9,5 @@ To run the application, just clone the repository, cd into it and run with Pytho
 
 ```
 cd EasyPiTempMonitor/
-python temp-logger.py
+python temp_logger.py
 ```
